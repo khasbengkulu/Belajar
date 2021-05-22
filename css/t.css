@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin:0;
+	font-family: sans-serif;
+}		body{
+			padding: 0;
+		margin:0;
+		font-family: sans-serif;
+			background-color: rgb(10,20,30);
+		}
+
+		.c{
+			color: white;
+		}
+		.menu{
+			color: red;
+			text-align: center;
+		}
+		a{
+			font-size: 24px;
+			text-align: center;
+			text-decoration: none;
+			color: red;
+		}
+		.d{
+			font-size: 10px;
+			margin-top: 20%;
+			position: justify;
+
+		}
+		footer{
+			background-color: blue;
+			left: 0;
+			bottom: 0;
+			position:absolute;
+			overflow: hidden;
+			width: 100%;
+
+		}
